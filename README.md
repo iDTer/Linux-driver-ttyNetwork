@@ -225,6 +225,8 @@ Serial Port Utility（串口调试工具）
 
 
 
+ps: 问题出在了虚拟机串口设置那里，由于后面想到这里已经过去（wo）太远（lan）了，后面有兴趣可以自己改一下设置。
+
 
 
 ------
@@ -236,4 +238,3 @@ https://www.cnblogs.com/lifexy/p/7763352.html?tdsourcetag=s_pcqq_aiomsg
 [https://zhoujianshi.github.io/articles/2017/Linux%E4%B8%B2%E5%8F%A3%E7%BD%91%E5%8D%A1%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E9%80%9A%E7%94%A8%E8%99%9A%E6%8B%9F%E7%BD%91%E5%8D%A1%E7%9A%84%E5%AE%9E%E7%8E%B0/index.html](https://zhoujianshi.github.io/articles/2017/Linux串口网卡（一）——通用虚拟网卡的实现/index.html)
 
  
-
